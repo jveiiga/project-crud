@@ -1,4 +1,12 @@
+/* .promotion-card__total {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    width: 800px;
+} */
+
 .promotion-card {
+    width: 350px;
     border: 1px solid #c3c3c3;
     border-radius:8px;
     box-shadow: 0 2px 7px 0 rgba(0,0,0, 0.15);
@@ -6,6 +14,7 @@
     flex-direction: column;
     align-items: flex-start;
     padding: 10px;
+    margin-top: 20px;
 }
 
 .promotion-card__title {
@@ -16,5 +25,5 @@
 .promotion-card__price {
     font-size: 26px;
     font-weight:700;
-    color: #3498db;
+    color: #9034dbc0;
 }
