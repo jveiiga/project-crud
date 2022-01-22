@@ -1,24 +1,28 @@
 {
-    "promotions": [
+  "promotions": [
     {
-    "id": 1,
-    "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
-    "price": 1799
+      "id": 1,
+      "title": "Netflix",
+      "price": 39.99
     },
     {
-    "id": 2,
-    "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
-    "price": 246.05
+      "id": 2,
+      "title": "Academia",
+      "price": 80.97
     },
     {
-    "id": 3,
-    "title": "Tênis West Coast Marrom",
-    "price": 119.99
+      "id": 3,
+      "title": "Spotify",
+      "price": 29.99
     },
     {
-    "id": 4,
-    "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
-    "price": 699.90
+      "initialValue": {
+        "title": "",
+        "price": 0
+      },
+      "title": "ssss",
+      "price": "22",
+      "id": 4
     }
   ]
 }
